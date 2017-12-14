@@ -1,0 +1,17 @@
+html {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+p {
+  color: gray;
+}
+
+.footer {
+  text-align: right;
+}
